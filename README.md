@@ -1,5 +1,5 @@
 - I'm @dtonderski, a Master's student interested in Machine Learning.
-- I'm currently working on @dtonderski/DeepSudoku and @dtonderski/deep_learning_playground.
+- I'm currently working on my MSc Thesis @dtonderski/dynamic-fusion.
 - Reach me at dtonderski@gmail.com
 
 <!---
